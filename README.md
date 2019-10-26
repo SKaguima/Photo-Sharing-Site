@@ -1,3 +1,3 @@
-# hello-world
+# Photo Sharing
 #Introduction to Giithub
-#I am testing Github, preparing myself for more and more coding.
+#A platform to share photos and comments.
